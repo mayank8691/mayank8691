@@ -108,8 +108,8 @@ Currently focused on **Python, Django, Backend Development, SQL, DSA, and Proble
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayank8691&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank8691&layout=compact&langs_count=8&hide_border=true" width="40%" />
+  <img src="./profile/stats.svg" width="48%" />
+  <img src="./profile/top-langs.svg" width="40%" />
 </p>
 
 ---
@@ -125,7 +125,7 @@ Currently focused on **Python, Django, Backend Development, SQL, DSA, and Proble
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank8691&hide_border=true&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank8691&theme=github-compact&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
