@@ -5,17 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mayank8691">
-    <img src="https://skillicons.dev/icons?i=github" width="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mayanksharma869">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:mayank844861@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
-  </a>
+
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/mayank8691)
+&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mayanksharma869)
+&nbsp;&nbsp;&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mayank844861@gmail.com)
+
 </p>
 
 
