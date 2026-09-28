@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Mayank Sharma
 
-### 🐍 Python Developer | Django | Backend Development
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Python+Developer;Backend+Developer;Django+Developer;MCA+Student;Always+Learning+%26+Building" alt="Typing SVG" />
+  </a>
+</p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mayank8691&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
@@ -12,9 +16,9 @@
 
 I'm an **MCA student and aspiring Python Developer** with hands-on experience in **Python, Django, MySQL, SQL, REST APIs, and database-driven web applications**.
 
-I enjoy building backend applications, working with databases, developing APIs, solving programming problems, and improving my software development skills.
+I enjoy building backend applications, working with databases, developing APIs, solving programming problems, and continuously improving my software development skills.
 
-Currently focused on strengthening my **Python, Django, backend development, SQL, DSA, and problem-solving** skills.
+Currently focused on **Python, Django, Backend Development, SQL, DSA, and Problem Solving**.
 
 ---
 
@@ -28,7 +32,7 @@ Currently focused on strengthening my **Python, Django, backend development, SQL
 
 **Python • OOP • Functions • Modules • Packages • Exception Handling • File Handling • Debugging • DSA**
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=django" />
@@ -64,25 +68,12 @@ Currently focused on strengthening my **Python, Django, backend development, SQL
 
 ## 🚀 What I'm Working On
 
-```text
-🐍 Python
-   └── Improving programming & problem-solving
-
-🌐 Django
-   └── Building stronger backend development skills
-
-🔗 REST APIs
-   └── Learning API development & integration
-
-🗄️ SQL / MySQL
-   └── Improving database design & queries
-
-🧠 DSA
-   └── Practicing data structures & algorithms
-
-💡 Software Development
-   └── Improving coding practices & debugging
-```
+* 🐍 Improving my **Python programming & problem-solving**
+* 🌐 Strengthening **Django & Backend Development**
+* 🔗 Building stronger **REST API development** skills
+* 🗄️ Practicing **SQL, MySQL & Database Design**
+* 🧠 Improving **DSA & algorithmic problem solving**
+* 💡 Learning better **software development practices**
 
 ---
 
@@ -104,11 +95,11 @@ Currently focused on strengthening my **Python, Django, backend development, SQL
 
 <p align="center">
 
-|   🐍 Python   |      🌐 Django     |    🔗 REST APIs    |
-| :-----------: | :----------------: | :----------------: |
-|   🗄️ MySQL   |       💾 SQL       |       🧩 DBMS      |
-|     🧠 DSA    |  🔐 Authentication |       🔧 CRUD      |
-| 🛠️ Debugging | 💡 Problem Solving | 🔌 API Integration |
+`Python` • `Django` • `REST APIs` • `MySQL` • `SQL` • `DBMS`
+
+`DSA` • `OOP` • `CRUD` • `Authentication` • `API Integration`
+
+`Debugging` • `Problem Solving` • `Database Design`
 
 </p>
 
@@ -117,8 +108,8 @@ Currently focused on strengthening my **Python, Django, backend development, SQL
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayank8691&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank8691&layout=compact&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mayank8691&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank8691&layout=compact&langs_count=8&hide_border=true" width="40%" />
 </p>
 
 ---
@@ -126,7 +117,7 @@ Currently focused on strengthening my **Python, Django, backend development, SQL
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank8691&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mayank8691&hide_border=true" width="60%" />
 </p>
 
 ---
@@ -134,7 +125,7 @@ Currently focused on strengthening my **Python, Django, backend development, SQL
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank8691&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank8691&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
