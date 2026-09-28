@@ -77,20 +77,6 @@ Currently focused on **Python, Django, Backend Development, SQL, DSA, and Proble
 
 ---
 
-## 💼 Experience
-
-### Web Development Intern — InternPe
-
-**June 2026 – August 2026**
-
-* Gained practical exposure to web development workflows.
-* Worked in a professional development environment.
-* Applied web development concepts to assigned tasks.
-* Improved problem-solving and task execution skills.
-* Gained exposure to professional coding practices.
-
----
-
 ## 🧠 Core Skills
 
 <p align="center">
@@ -105,27 +91,10 @@ Currently focused on **Python, Django, Backend Development, SQL, DSA, and Proble
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./profile/stats.svg" width="48%" />
-  <img src="./profile/top-langs.svg" width="40%" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mayank8691&hide_border=true" width="60%" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank8691&theme=github-compact&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
