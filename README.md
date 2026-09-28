@@ -20,14 +20,24 @@
 
 ### 🧑‍💻 About Me
 
-```python
-developer = {
-    "name": "Mayank Sharma",
-    "role": "Python Developer",
-    "focus": ["Django", "REST APIs", "Backend", "MySQL"],
-    "learning": ["DSA", "Backend Architecture"],
-    "mindset": "Learn • Build • Improve"
-}
+<details>
+<summary>🧑‍💻 <b>About Me</b></summary>
+
+<br>
+
+🎓 **MCA Student**  
+🐍 **Python Developer**  
+⚙️ **Django Backend Developer**  
+🔌 **REST API Developer**  
+🗄️ **MySQL & SQL**  
+🧠 **DSA & Problem Solving**
+
+<br>
+
+> I enjoy building backend applications and learning how
+> systems work behind the scenes.
+
+</details>
 ```
 
 ### ⚡ Tech Stack
