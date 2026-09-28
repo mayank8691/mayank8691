@@ -18,26 +18,26 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-<details>
-<summary>🧑‍💻 <b>About Me</b></summary>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Django+Backend+Developer+%E2%9A%99%EF%B8%8F;REST+API+Developer+%F0%9F%94%8C;MCA+Student+%F0%9F%8E%93" />
+</p>
 
-<br>
+<p align="center">
+  Building backend applications with
+  <b>Python, Django, REST APIs & MySQL</b>.
+  <br>
+  I enjoy learning, solving problems and turning ideas into working software.
+</p>
 
-🎓 **MCA Student**  
-🐍 **Python Developer**  
-⚙️ **Django Backend Developer**  
-🔌 **REST API Developer**  
-🗄️ **MySQL & SQL**  
-🧠 **DSA & Problem Solving**
-
-<br>
-
-> I enjoy building backend applications and learning how
-> systems work behind the scenes.
-
-</details>
+<p align="center">
+  🎓 MCA &nbsp; • &nbsp;
+  🐍 Python &nbsp; • &nbsp;
+  ⚙️ Django &nbsp; • &nbsp;
+  🔌 REST APIs &nbsp; • &nbsp;
+  🗄️ MySQL
+</p>
 ```
 
 ### ⚡ Tech Stack
